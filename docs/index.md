@@ -1,13 +1,13 @@
-Wiki
+# Wiki
 1. 	Overview
 
-       The goals and key features (https://github.com/alexeymaklakov/doc_test/blob/master/docs/features.md)
+    * The goals and key features (https://github.com/alexeymaklakov/doc_test/blob/master/docs/features.md)
 
-       Where it can be used (https://github.com/alexeymaklakov/doc_test/blob/master/docs/markets.md)
+    * Where it can be used (https://github.com/alexeymaklakov/doc_test/blob/master/docs/markets.md)
 
-       Benefits (https://github.com/alexeymaklakov/doc_test/blob/master/docs/benefits.md)
+    * Benefits (https://github.com/alexeymaklakov/doc_test/blob/master/docs/benefits.md)
 
-       Responsibility (https://github.com/alexeymaklakov/doc_test/blob/master/docs/respons.md)
+    * Responsibility (https://github.com/alexeymaklakov/doc_test/blob/master/docs/respons.md)
 
 2. 	Partnership program
 
