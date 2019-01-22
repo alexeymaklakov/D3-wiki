@@ -1,5 +1,5 @@
 Wiki
-1.     Overview
+1. 	Overview
 
        The goals and key features (https://github.com/alexeymaklakov/doc_test/blob/master/docs/features.md)
 
