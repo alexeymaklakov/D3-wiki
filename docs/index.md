@@ -7,8 +7,8 @@ b. [Where it can be used] (./markets.md)
 
 c. [Benefits] (./benefits.md)
 
-d.     Responsibility
-Ответственность, принятие рисков, особые условия и гарантии
+d. [Responsibility] (./respons.md)
+
 2.     Partnership program
 a.     About the program
 Для кого программа, цели и задачи
