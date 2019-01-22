@@ -34,39 +34,42 @@ Wiki
        Передача прав на активы (https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md)
        
 4.     Core concepts
-a.     Digital assets (!!!)
-Что такое активы, с какими активами можно работать, какие критерии, как добавляются новые
-b.     Accounts
-Какие счета бывают в системе, каков их жизненный цикл, атрибуты счетов
-c.      Operations
-Какие виды операций поддерживаются сетью, как, кем, в какой последовательности выполняются, могут ли быть приостановлены и пр.
-d.     Partners
-Типы партнеров, роли
-e.     Validators
-Полномочия, функции, жизненный цикл валидатора
-f.       Intermediaries
-Полномочия, функции, жизненный цикл партнера
-g.     Clients
-Доступные сервисы, порядок подключения, ограничения
+
+       Digital assets (https://github.com/alexeymaklakov/doc_test/blob/master/docs/assets.md)
+
+       Accounts (https://github.com/alexeymaklakov/doc_test/blob/master/docs/accounts.md)
+
+       Operations (https://github.com/alexeymaklakov/doc_test/blob/master/docs/operations.md)
+
+       Partners (https://github.com/alexeymaklakov/doc_test/blob/master/docs/partners.md)
+
+       Validators (https://github.com/alexeymaklakov/doc_test/blob/master/docs/validators.md)
+
+       Intermediaries (https://github.com/alexeymaklakov/doc_test/blob/master/docs/inter.md)
+
+       Clients (https://github.com/alexeymaklakov/doc_test/blob/master/docs/clients.md)
+
 5.     Governance
-a.     How it works
-Как работает управление сетью
-b.     Roles
-Как принимаются решения, добавляются новые валидаторы
-c.      Processes
-Как подтверждаются или отклоняются операции, какая готовится отчетность, как делается аудит и пр.
+
+       How it works (https://github.com/alexeymaklakov/doc_test/blob/master/docs/how.md)
+
+       Roles (https://github.com/alexeymaklakov/doc_test/blob/master/docs/how.md)
+
+       Processes (https://github.com/alexeymaklakov/doc_test/blob/master/docs/processes.md)
+
 6.     Guides and how-to
-a.     For Investors
-Пошаговая инструкция как воспользоваться сервисами для конечных клиентов
-b.     For partners
-Пошаговая инструкция как стать партнером
-c.      For validators
-Пошаговая инструкция как стать валидатором в сети
+
+       For Investors (https://github.com/alexeymaklakov/doc_test/blob/master/docs/howtoinvestor.md)
+
+       For partners (https://github.com/alexeymaklakov/doc_test/blob/master/docs/howtopartner.md)
+
+       For validators (https://github.com/alexeymaklakov/doc_test/blob/master/docs/howtovalidator.md)
+
 7.     Tech specs & requirements
-a.     Common requirements
-Требования к оборудованию, процессам деплоя, конфигурации и настройкам, безопасности и пр.
-b.     For partners
-Требования и тех процессы для партнеров
-c.      For validators
-Требования и тех процессы для валидаторов
+
+       Common requirements (https://github.com/alexeymaklakov/doc_test/blob/master/docs/techspecs.md)
+
+       For partners (https://github.com/alexeymaklakov/doc_test/blob/master/docs/techforpartners.md)
+
+       For validators (https://github.com/alexeymaklakov/doc_test/blob/master/docs/techforvalidators.md)
  
