@@ -1,7 +1,7 @@
 Wiki
 1.     Overview
 
-       The goals and key features (./features.md)
+       The goals and key features (https://github.com/alexeymaklakov/doc_test/blob/master/docs/features.md)
 
 b. [Where it can be used] (./markets.md)
 
