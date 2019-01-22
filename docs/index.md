@@ -10,22 +10,29 @@ Wiki
        Responsibility (https://github.com/alexeymaklakov/doc_test/blob/master/docs/respons.md)
 
 2.     Partnership program
-a.     About the program
-Для кого программа, цели и задачи
-b.     The partner journey
-Процесс заключения партнерства
-c.      Tier levels
-Уровни/типы партнерств, требования к партнерам, какие получают преимущества
-d.     Legal framework
-Каким нормами и стандартами регулируется деятельность в рамках программы, каким стандартам соответствует
-e.     Business model
-Бизнес параметры взаимоотношений между партнерами, между партнерами и клиентами. Правила определения и изменения параметров взаимоотношений
-3. 	Use case scenarios (здесь нужно в описать возможные сценарии работы в системе. Отдельно для партнеров, отдельно для конечных потребителей)
-a. 	Покупка активов за фиат, заведение и хранение их в D3
-b. 	Вывод активов
-c.  Продажа активов за фиат
-d. 	Обмен активами в рамках системы (одни активы на другие ?)
-e. 	Передача прав на активы
+
+       About the program (https://github.com/alexeymaklakov/doc_test/blob/master/docs/program.md)
+
+       The partner journey (https://github.com/alexeymaklakov/doc_test/blob/master/docs/journey.md)
+
+       Tier levels (https://github.com/alexeymaklakov/doc_test/blob/master/docs/levels.md)
+
+       Legal framework (https://github.com/alexeymaklakov/doc_test/blob/master/docs/legal.md)
+
+       Business model (https://github.com/alexeymaklakov/doc_test/blob/master/docs/model.md)
+
+3. 	Use case scenarios
+
+       Покупка активов (https://github.com/alexeymaklakov/doc_test/blob/master/docs/purchase.md)
+       
+       Вывод активов (https://github.com/alexeymaklakov/doc_test/blob/master/docs/withdraw.md)
+       
+       Продажа активов за фиат (https://github.com/alexeymaklakov/doc_test/blob/master/docs/sell.md)
+       
+       Обмен активами в рамках системы (https://github.com/alexeymaklakov/doc_test/blob/master/docs/exchange.md)
+       
+       Передача прав на активы (https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md)
+       
 4.     Core concepts
 a.     Digital assets (!!!)
 Что такое активы, с какими активами можно работать, какие критерии, как добавляются новые
