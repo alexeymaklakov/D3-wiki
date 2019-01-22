@@ -1,9 +1,9 @@
 Wiki
 1.     [Overview]
 a.     [The goals and key features] (./features.md)
-Общие цели системы и ее ключевые особенности
-b.     Where it can be used
-На каких рынках м б использовано, кем и для чего
+
+b.     [Where it can be used] (./markets.md)
+
 c.      Benefits
 Ключевые преимущества для конечных и непосредственных потребителей
 d.     Responsibility
