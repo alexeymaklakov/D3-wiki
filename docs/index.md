@@ -33,7 +33,7 @@ Wiki
        
        Передача прав на активы (https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md)
        
-4.     Core concepts
+4. 	Core concepts
 
        Digital assets (https://github.com/alexeymaklakov/doc_test/blob/master/docs/assets.md)
 
@@ -49,7 +49,7 @@ Wiki
 
        Clients (https://github.com/alexeymaklakov/doc_test/blob/master/docs/clients.md)
 
-5.     Governance
+5. 	Governance
 
        How it works (https://github.com/alexeymaklakov/doc_test/blob/master/docs/how.md)
 
@@ -57,7 +57,7 @@ Wiki
 
        Processes (https://github.com/alexeymaklakov/doc_test/blob/master/docs/processes.md)
 
-6.     Guides and how-to
+6. 	Guides and how to
 
        For Investors (https://github.com/alexeymaklakov/doc_test/blob/master/docs/howtoinvestor.md)
 
@@ -65,7 +65,7 @@ Wiki
 
        For validators (https://github.com/alexeymaklakov/doc_test/blob/master/docs/howtovalidator.md)
 
-7.     Tech specs & requirements
+7. 	Tech specs & requirements
 
        Common requirements (https://github.com/alexeymaklakov/doc_test/blob/master/docs/techspecs.md)
 
