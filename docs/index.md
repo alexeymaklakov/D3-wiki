@@ -9,7 +9,7 @@ Wiki
 
        Responsibility (https://github.com/alexeymaklakov/doc_test/blob/master/docs/respons.md)
 
-2.     Partnership program
+2. 	Partnership program
 
        About the program (https://github.com/alexeymaklakov/doc_test/blob/master/docs/program.md)
 
