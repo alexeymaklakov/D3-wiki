@@ -1,11 +1,9 @@
 Wiki
-1.     [Overview]
-a.     [The goals and key features] (./features.md)
+1. [Overview]
+a. [The goals and key features] (./features.md)
+b. [Where it can be used] (./markets.md)
+c. [Benefits] (./benefits.md)
 
-b.     [Where it can be used] (./markets.md)
-
-c.      Benefits
-Ключевые преимущества для конечных и непосредственных потребителей
 d.     Responsibility
 Ответственность, принятие рисков, особые условия и гарантии
 2.     Partnership program
