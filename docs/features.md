@@ -11,7 +11,7 @@ The D3ledger infrastructure can be used for work with **_crypto_** and **_tradit
 ## Features and Functionality
 
 The D3ledger ecosystem offers several functional advantages to its
-**_clients_** that cover the full scope of activities undertaken with
+[**_clients_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients of D3") that cover the full scope of activities undertaken with
 **_crypto assets_**.
 
 ### Universal account
@@ -19,15 +19,15 @@ The D3ledger ecosystem offers several functional advantages to its
 All trading operations with **_crypto_** and
 **_traditional financial assets_** can be conducted within a single
 account connected to numerous **_depositories_** and other kinds of
-financial institutions. It is an environment where the **_client_** can
+financial institutions. It is an environment where the [**_client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Client of D3") can
 access numerous **_crypto assets_**, **_tokenize_** their own assets, **_trade_**,
 **_exchange_**, and operate them.
 
 ### Full control
 
-All **_assets_** of the **_client_** are stored in one place, and
-the **_client_** is the only one controlling them. D3ledger acts as a
-**_decentralized depository_** for organized markets, and the **_client_** can
+All **_assets_** of the [**_client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Client of D3") are stored in one place, and
+the [**_client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Client of D3") is the only one controlling them. D3ledger acts as a
+**_decentralized depository_** for organized markets, and the [**_client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Client of D3") can
 operate their **_assets_** without **_withdrawing_** them from the system.
 
 ### Multi-leg settlement
@@ -47,7 +47,7 @@ D3ledger offers an environment for holders of
 various **_assets_** where they can realize their **_rights_** via conducting
 corporate actions, such as voting, repurchasing or splitting stocks,
 dividend payouts, different kinds of reorganization and cancellation
-of shares, and distributions, among others. **_Clients_** can work with
+of shares, and distributions, among others. [**_Clients_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients of D3") can work with
 different **_assets_** and **_rights_** in tokenized form from their **_universal
 account_**.
 
