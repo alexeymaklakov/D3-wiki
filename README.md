@@ -77,4 +77,15 @@ D3ledger is a global distributed platform that provides standardized post-trade 
    * [For partners](https://github.com/alexeymaklakov/doc_test/blob/master/docs/techforpartners.md)
 
    * [For validators](https://github.com/alexeymaklakov/doc_test/blob/master/docs/techforvalidators.md)
- 
+
+### 8.  Technology
+
+   * [Distributed ledger](https://github.com/alexeymaklakov/doc_test/blob/master/docs/dlt.md)
+
+   * [Nodes](https://github.com/alexeymaklakov/doc_test/blob/master/docs/nodes.md)
+
+   * [Distributed identity](https://github.com/alexeymaklakov/doc_test/blob/master/docs/di.md)
+
+   * [Two-way peg](https://github.com/alexeymaklakov/doc_test/blob/master/docs/2wp.md)
+
+   * [Pseudonym management](https://github.com/alexeymaklakov/doc_test/blob/master/docs/pseudo.md)
