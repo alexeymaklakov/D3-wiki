@@ -23,15 +23,21 @@
 
 ### 3. 	Use case scenarios
 
-   * [Покупка активов](https://github.com/alexeymaklakov/doc_test/blob/master/docs/purchase.md)
+   * [Purchasing assets](https://github.com/alexeymaklakov/doc_test/blob/master/docs/purchase.md)
+   
+   * [Depositing assets](https://github.com/alexeymaklakov/doc_test/blob/master/docs/deposit.md)
        
-   * [Вывод активов](https://github.com/alexeymaklakov/doc_test/blob/master/docs/withdraw.md)
+   * [Withdrawing assets](https://github.com/alexeymaklakov/doc_test/blob/master/docs/withdraw.md)
        
-   * [Продажа активов за фиат](https://github.com/alexeymaklakov/doc_test/blob/master/docs/sell.md)
+   * [Selling assets](https://github.com/alexeymaklakov/doc_test/blob/master/docs/sell.md)
        
-   * [Обмен активами в рамках системы](https://github.com/alexeymaklakov/doc_test/blob/master/docs/exchange.md)
+   * [Exchange assets](https://github.com/alexeymaklakov/doc_test/blob/master/docs/exchange.md)
        
-   * [Передача прав на активы](https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md)
+   * [Transfer assets](https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md)
+   
+   * [Performing settlements](https://github.com/alexeymaklakov/doc_test/blob/master/docs/settlements.md)
+   
+   * [Tokenization](https://github.com/alexeymaklakov/doc_test/blob/master/docs/tokenization.md)
        
 ### 4. 	Core concepts
 
