@@ -1,6 +1,6 @@
 # D3 Corporate Governance
 
-The D3ledger ecosystem is consists of customers, partners and D3 Foundation.
+The D3ledger ecosystem is consists of [**_clients_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients of D3"), [**_partners_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/partners.md) and D3 Foundation.
 
 D3 Foundation is the governing entity for the entire ecosystem where all network **_nodes_** have equal **_voting rights_**.
 
