@@ -6,4 +6,4 @@ They generate and keep their **_private keys_** that have **_certificates_** iss
 
 In most cases, clients have to run operations on D3ledger by accessing the **_nodes_** run by D3ledger **_partners_**.
 
-A D3ledger client can change a D3ledger **_partner_** that handles their **_transactions_** at any time, or use the services from several **_partners_** at once.
+A D3ledger client can change a D3ledger [**_partner_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/partners.md "Partner of D3") that handles their **_transactions_** at any time, or use the services from several [**_partners_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/partners.md "Partners of D3") at once.
