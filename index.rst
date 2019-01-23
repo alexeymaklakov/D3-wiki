@@ -1,7 +1,7 @@
 .. contents:: TABLE OF CONTENTS
    :depth: 3
 
-1. 	Overview
+Overview
 `````````````
 
 `The goals and key features <https://github.com/alexeymaklakov/doc_test/blob/master/docs/features.md>`_
@@ -12,7 +12,7 @@
 
 `Responsibility <https://github.com/alexeymaklakov/doc_test/blob/master/docs/respons.md>`_
 
-2. 	Partnership program
+Partnership program
 ````````````````````````
 
 `About the program <https://github.com/alexeymaklakov/doc_test/blob/master/docs/program.md>`_
@@ -25,7 +25,7 @@
 
 `Business model <https://github.com/alexeymaklakov/doc_test/blob/master/docs/model.md>`_
 
-3. 	Use case scenarios
+Use case scenarios
 ```````````````````````
 
 `Покупка активов <https://github.com/alexeymaklakov/doc_test/blob/master/docs/purchase.md>`_
@@ -38,7 +38,7 @@
        
 `Передача прав на активы <https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md>`_
        
-4. 	Core concepts
+Core concepts
 ``````````````````
 
 `Digital assets <https://github.com/alexeymaklakov/doc_test/blob/master/docs/assets.md>`_
@@ -55,7 +55,7 @@
 
 `Clients <https://github.com/alexeymaklakov/doc_test/blob/master/docs/clients.md>`_
 
-5. 	Governance
+Governance
 ```````````````
 
 `How it works <https://github.com/alexeymaklakov/doc_test/blob/master/docs/how.md>`_
@@ -64,7 +64,7 @@
 
 `Processes <https://github.com/alexeymaklakov/doc_test/blob/master/docs/processes.md>`_
 
-6. 	Guides and how to
+Guides and how to
 ``````````````````````
 
 `For Investors <https://github.com/alexeymaklakov/doc_test/blob/master/docs/howtoinvestor.md>`_
@@ -73,7 +73,7 @@
 
 `For validators <https://github.com/alexeymaklakov/doc_test/blob/master/docs/howtovalidator.md>`_
 
-7. 	Tech specs & requirements
+Tech specs & requirements
 ``````````````````````````````
 
 `Common requirements <https://github.com/alexeymaklakov/doc_test/blob/master/docs/techspecs.md>`_
@@ -82,7 +82,7 @@
 
 `For validators <https://github.com/alexeymaklakov/doc_test/blob/master/docs/techforvalidators.md>`_ 
 
-8.  Technology
+Technology
 ```````````````
 
 `Distributed ledger <https://github.com/alexeymaklakov/doc_test/blob/master/docs/dlt.md>`_
