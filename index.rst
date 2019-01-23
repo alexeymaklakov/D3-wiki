@@ -28,16 +28,22 @@ Partnership program
 Use case scenarios
 ```````````````````````
 
-`Покупка активов <https://github.com/alexeymaklakov/doc_test/blob/master/docs/purchase.md>`_
+`Purchasing assets <https://github.com/alexeymaklakov/doc_test/blob/master/docs/purchase.md>`_
+
+`Depositing assets <https://github.com/alexeymaklakov/doc_test/blob/master/docs/deposit.md>`_
        
-`Вывод активов <https://github.com/alexeymaklakov/doc_test/blob/master/docs/withdraw.md>`_
+`Withdrawing assets <https://github.com/alexeymaklakov/doc_test/blob/master/docs/withdraw.md>`_
        
-`Продажа активов за фиат <https://github.com/alexeymaklakov/doc_test/blob/master/docs/sell.md>`_
+`Selling assets <https://github.com/alexeymaklakov/doc_test/blob/master/docs/sell.md>`_
        
-`Обмен активами в рамках системы <https://github.com/alexeymaklakov/doc_test/blob/master/docs/exchange.md>`_
+`Exchange assets <https://github.com/alexeymaklakov/doc_test/blob/master/docs/exchange.md>`_
        
-`Передача прав на активы <https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md>`_
-       
+`Transfer assets <https://github.com/alexeymaklakov/doc_test/blob/master/docs/transfer.md>`_
+
+`Performing settlements <https://github.com/alexeymaklakov/doc_test/blob/master/docs/settlements.md>`_
+
+`Tokenization <https://github.com/alexeymaklakov/doc_test/blob/master/docs/tokenization.md>`_
+   
 Core concepts
 ``````````````````
 
