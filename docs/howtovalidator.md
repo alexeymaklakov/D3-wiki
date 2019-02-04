@@ -38,13 +38,13 @@ For detailed technical information regarding the Validators role please refer to
 
 Such transactions are called cross-chain transactions. 
 
-Cross-chain transaction are enabled by a special mechanism (**_two-way peg_**) . 
+Cross-chain transaction are enabled by a special mechanism ([**_two-way peg_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/2wp.md "Two-way peg mechanism")) . 
 
 [**_Validators_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/validators.md "Validators in D3 network") approve each cross-chain transaction by consensus if it passes all the **_validation checks_**.
 
 When a [**_Client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients in D3 network") wants to **_deposit_** a crypto asset to **_D3 account_** he/she should send the asset to a dedicated account on the original blockchain (Bitcoin or Ethereum). Once received the asset is “locked” on the original blockchain and an equivalent token is released on the **_D3 Ledger Client’s account_**. After that the client can operate crypto asset on **_D3 Ledger Platform_**.
 
-**_Client_** can **_withdraw_** crypto assets from **_D3ledger_** at any time (partially or completely). A withdrawal transaction should be created and target address in the original blockchain specified. When the transaction passes security validations the specified asset amount is “unlocked” on the primary blockchain and transferred to the target address, specified by the **_Client_**.
+[**_Client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients in D3 network") can **_withdraw_** crypto assets from [**_D3ledger_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/dlt.md "D3ledger") at any time (partially or completely). A withdrawal transaction should be created and target address in the original blockchain specified. When the transaction passes security validations the specified asset amount is “unlocked” on the primary blockchain and transferred to the target address, specified by the [**_Client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients in D3 network").
 
 [**_Validators_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/validators.md "Validators in D3 network") manage D3 assets on external blockchain accounts via **_multisignature mechanism_** and ensure that **_withdrawal_** operations are processed if pass necessary validation criteria.
 
