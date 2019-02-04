@@ -4,7 +4,7 @@
 
 [**_Validators_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/validators.md "Validators of D3") are responsible to compensate Clients’ losses of assets in [**_D3ledger_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/dlt.md "D3 Ledger") or assets “locked” in original blockchains (Bitcoin and Ethereum) because of [**_D3ledger_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/dlt.md "D3 Ledger").
 
-[**_Validators_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/validators.md "Validators of D3") are not responsible for **_Client_** assets losses in the following cases:
+[**_Validators_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/validators.md "Validators of D3") are not responsible for [**_Client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients of D3") assets losses in the following cases:
   
   1) Client’s private key used (expected to be securely stored by the Client). 
   All the transactions signed by the Client’s private key are considered confirmed by the [**_Client_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients of D3"). 
