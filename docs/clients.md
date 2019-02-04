@@ -1,6 +1,6 @@
 # Clients
 
-Clients of D3 can be Individuals, Companies (investors, banks, payment processors, stock exchanges) and Institutional investors (corporates, funds, family offices, asset and wealth managers etc.). Clients get reliable, decentralized and feature-rich infrastructure for crypto assets backed by regulatory-compliant and risk-protected business service.
+Clients of D3 can be Individuals, Companies (investors, banks, payment processors, stock exchanges) or Institutional investors (corporates, funds, family offices, asset and wealth managers etc.). Clients get reliable, decentralized and feature-rich infrastructure for crypto assets backed by regulatory-compliant and risk-protected business service.
 
 Clients get access to D3 Ledger through **_Agents_**. 
 
