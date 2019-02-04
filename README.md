@@ -60,6 +60,8 @@ D3ledger is a global distributed platform that provides standardized post-trade 
    * [Providers](https://github.com/alexeymaklakov/doc_test/blob/master/docs/providers.md)
 
    * [Clients](https://github.com/alexeymaklakov/doc_test/blob/master/docs/clients.md)
+   
+   * [Operator](https://github.com/alexeymaklakov/doc_test/blob/master/docs/operator.md)
 
 ### 5. 	Governance
 
