@@ -11,4 +11,5 @@ The legal scheme of D3 network is based on a set of contracts between participan
 7) Insurance company - Validator contract
 
 ![D3ledger contract relations](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/D3contracts.PNG)
-      
+
+
