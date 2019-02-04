@@ -1,6 +1,6 @@
 # Summary
 
-D3ledger (Decentralized Digital Depository) is a decentralized financial infrastructure (blockchain-based  ecosystem) that enables market participants to safely work with all kinds of **_crypto assets_** while benefiting from well-founded legal basis, explicit regulatory compliance, and clear governance arrangements. 
+D3ledger (Decentralized Digital Depository) is a decentralized financial infrastructure (blockchain-based  ecosystem) that enables market participants to safely work with **_crypto assets_** while benefiting from well-founded legal basis, explicit regulatory compliance, and clear governance arrangements. 
 
 Assets stored on D3ledger secured by blockchain technologies and guaranteed by well-known and reputable companies.
 
