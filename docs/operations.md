@@ -17,7 +17,7 @@ D3ledger enables assets transfer between [**_Clients_**](https://github.com/alex
 ### Crypto Assets Exchange
 
 [**_Clients_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/clients.md "Clients in D3 network") can exchange assets with each other inside D3 platform directly. The exchange includes two participants and two assets. 
-Once the participants agree on the amounts they initiate a direct exchange. D3 uses an **_Atomic exchange_** algorithm to ensure the exchange participants follow the exchange protocol.
+Once the participants agree on the amounts they initiate a direct exchange. D3 uses an [**_Atomic exchange_**](https://github.com/alexeymaklakov/D3-wiki/blob/master/docs/atomic.md "Atomic exchange between D3 clients") algorithm to ensure the exchange participants follow the exchange protocol.
 
 
  
