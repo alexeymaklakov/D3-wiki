@@ -6,6 +6,7 @@ Friedenbach, M., Maxwell, G., Miller, A.,
 Wuille, P. (2015, October 22). Enabling
 Blockchain Innovations with Pegged
 Sidechains") and **_distributed ledger systems_**.
+
 This mechanism allows one to “move” **_assets_** to other **_blockchains_** and
 back by locking the **_assets_** on the original **_blockchain_** in an **_escrow_**
 and releasing the equivalent **_assets_** on the target **_blockchain_**.
