@@ -10,4 +10,6 @@ Yac: Yet another distributed consensus algorithm"), a variation of the chain-bas
 **_Byzantine Fault Tolerant (BFT)_** **_consensus protocol_**.
 
 D3ledger is maintained by the network of participants, or **_notaries_** — which implies there is no central entity in charge of transaction history management.
-D3ledger blockchain consistency is maintained by geographically distributed **_nodes_**, which are operated by the **_Validators_** network. **_Validators_** operate in different jurisdictions. In case one or even several **_Validators_** and/or nodes fail D3ledger remains up and running.
+D3ledger blockchain consistency is maintained by geographically distributed **_nodes_**, which are operated by the **_Validators_** network. 
+**_Validators_** operate in different jurisdictions. In case one or even several **_Validators_** and/or nodes fail D3ledger remains up and running.
+The system uses the network of **_nodes_** that interact with each other in order to validate transactions within the ecosystem and perform other functions. 
