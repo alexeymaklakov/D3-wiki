@@ -102,3 +102,5 @@ D3ledger is a global distributed platform that provides standardized post-trade 
    * [Two-way peg](https://github.com/alexeymaklakov/doc_test/blob/master/docs/2wp.md)
 
    * [Pseudonym management](https://github.com/alexeymaklakov/doc_test/blob/master/docs/pseudo.md)
+   
+   * [Atomic exchange](https://github.com/alexeymaklakov/doc_test/blob/master/docs/atomic.md)
